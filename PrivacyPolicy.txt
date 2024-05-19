@@ -22,7 +22,7 @@ The User's content is user's files of git repository, The User's content will al
 
 
 Ad:
-The Ad will only shown to free user, for paid user, the Ad will not init and load.
+The Ad will only shown to free user.
 The Ad providers has themselves privacy policy(see bellow: "Ad Providers privacy policy").
 
 
