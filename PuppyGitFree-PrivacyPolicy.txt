@@ -1,4 +1,4 @@
-PuppyGit will not collect and analyze user's data, but PuppyGit's developers may require "LogData" and "User's Env Info" from users for debug reason.
+PuppyGit will not collect and analyze user's data, but PuppyGit's developers may request "LogData" and "User's Env Info" from users for debug reason, user should clear the senstive data before send any file to anyone or anywhere, and, of course, user can reject the data request by PuppyGit's developers.
 
 
 LogData:
@@ -12,7 +12,7 @@ PuppyGit's developers will only request the necessary info from user, and user c
 
 
 User's password of credentials, storage and use:
-User's password of credentials will always encrypted storage in user's device, and PuppyGit will never share it to other person/organization, but the password of credentials will decrypt when PuppyGit connect to git repository, it is necessary for download/upload files from a git repository which require authentication. And, by default, the password will only transport in secure connection(e.g. TLS)
+User's password of credentials will always encrypted storage in user's device, and PuppyGit will never share it to other person/organization, when PuppyGit try connect to a git repository which linked a credential, the linked credential's password will decrypt, it is necessary for download/upload files from a git repository which require authentication. And, by default, the password will only transport in secure connection(e.g. TLS)
 
 User can control which git repository use which credential, or don't use any credential, PuppyGit will not use a credential if user not link a credential to a git repository, git repository and credential's link relation can manage by user in "Credential Manager" of PuppyGit.
 
