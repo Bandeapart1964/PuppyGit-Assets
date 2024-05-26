@@ -1,6 +1,6 @@
 This app name is "PuppyGit Pro" and this File is PuppyGit Pro's Pravicy Policy, for convenient, in the following text, we will call "PuppyGit Pro" as "PuppyGit" or "PuppyGitPro" or "This App" or "PuppyGit Pro".
 
-PuppyGit will not collect and analyze user's data, but PuppyGit's developers may request "LogData" and "User's Env Info" from users for debug reason.
+PuppyGit will not collect and analyze user's data, but PuppyGit's developers may request "LogData" and "User's Env Info" from users for debug reason, user should clear the senstive data before send any file to anyone or anywhere, and, of course, user can reject the data request by PuppyGit's developers.
 
 
 LogData:
