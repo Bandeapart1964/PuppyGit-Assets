@@ -1,3 +1,5 @@
+This app name is "PuppyGit Pro" and this File is PuppyGit Pro's Pravicy Policy, for convenient, in the following text, we will call it as "PuppyGit" or "PuppyGitPro" or "This App" or "PuppyGit Pro".
+
 PuppyGit will not collect and analyze user's data, but PuppyGit's developers may require "LogData" and "User's Env Info" from users for debug reason.
 
 
@@ -12,22 +14,13 @@ PuppyGit's developers will only request the necessary info from user, and user c
 
 
 User's password of credentials, storage and use:
-User's password of credentials will always encrypted storage in user's device, and will never auto send it to other person/organization, but the password of credentials will decrypt when PuppyGit connect to git repository, it is necessary for download/upload files from a git repository which require authentication.
+User's password of credentials will always encrypted storage in user's device, and PuppyGit will never share it to other person/organization, but the password of credentials will decrypt when PuppyGit connect to git repository, it is necessary for download/upload files from a git repository which require authentication. And, by default, the password will only transport in secure connection(e.g. TLS)
 
 User can control which git repository use which credential, or don't use any credential, PuppyGit will not use a credential if user not link a credential to a git repository, git repository and credential's link relation can manage by user in "Credential Manager" of PuppyGit.
 
 
 User's content:
-The User's content is user's files of git repository, The User's content will always owned by users, and will never send to other person/organization by PuppyGit.
-
-
-Ad:
-The Ad will only shown to free user.
-The Ad providers has themselves privacy policy(see bellow: "Ad Providers privacy policy").
-
-
-Ad Providers privacy policy:
-Admob: https://support.google.com/admob/answer/6128543?hl=en
+The User's content is user's files of git repository, The User's content will always owned by user self, and PuppyGit will never share them to other person/organization.
 
 
 Contact PuppyGit developers:
